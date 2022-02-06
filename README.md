@@ -6,7 +6,7 @@ Dataset que contém 690 vídeos, separados em três classes:
 
 # Detalhes
 Imagem ilustrativa dos vídeos da base de dados
-[Imagem ilustrativa dos vídeos da base de dados](images/violencia-e-nao-violencia_v2.png)
+![](images/violencia-e-nao-violencia_v2.png)
 * Vídeos em formato .mp4
 * Duração de 1 a 5 segundos
 
